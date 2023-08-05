@@ -1,0 +1,10 @@
+\babel@toc {american}{}\relax 
+\babel@toc {american}{}\relax 
+\contentsline {section}{\numberline {1}{Proposed Title }}{1}{section.1}%
+\contentsline {section}{\numberline {2}{Motivation}}{1}{section.2}%
+\contentsline {section}{\numberline {3}{Aim of the thesis}}{1}{section.3}%
+\contentsline {section}{\numberline {4}{Methods}}{2}{section.4}%
+\contentsline {section}{\numberline {5}{Proposed outline}}{2}{section.5}%
+\vspace {\beforebibskip }
+\contentsline {chapter}{\numberline {}{Bibliography}}{3}{section*.3}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

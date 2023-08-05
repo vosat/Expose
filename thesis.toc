@@ -1,0 +1,87 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {american}{}
+\defcounter {refsection}{0}\relax 
+\vspace {-\cftbeforepartskip }
+\babel@toc {american}{}
+\babel@toc {american}{}
+\babel@toc {american}{}
+\babel@toc {ngerman}{}
+\babel@toc {american}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}{Introduction}}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}{Motivation}}{1}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}{Aim of this work}}{1}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}{Structure}}{2}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}{Basics and adjacent works}}{3}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}{First part of the section}}{3}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}{A subsection}}{3}{subsection.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}{Another subsection}}{4}{subsection.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}{A second section}}{4}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}{A subsection}}{4}{subsection.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1.1}{A sub-subsection}}{4}{subsubsection.2.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}{Another chapter}}{5}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}{Lists}}{5}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}{Figures}}{6}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}{Simple figures}}{7}{subsection.3.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}{Figures with Subfloat}}{7}{subsection.3.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}{Graphics with Minipage}}{8}{subsection.3.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}{Tables}}{9}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}{Listings}}{9}{section.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}{Equations}}{9}{section.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}{Theorems and Proof}}{10}{section.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {i}{Appendix}}{12}{part.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}{Introduction to the ClassicThesis style}}{13}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{{Important Note:}}{14}{Item.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{{Yet Another Important Note:}}{14}{Item.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}{Organization}}{14}{section.A.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}{Style Options}}{16}{section.A.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}{Customization}}{17}{section.A.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}{Issues}}{18}{section.A.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}{Future Work}}{18}{section.A.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.6}{Beyond a Thesis}}{18}{section.A.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.7}{License}}{18}{section.A.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{{GNU General Public License:}}{18}{section.A.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{{classichthesis Authors' note:}}{19}{section.A.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}{Appendix Test}}{20}{appendix.B}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.1}{Appendix Section Test}}{20}{section.B.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.2}{Another Appendix Section Test}}{20}{section.B.2}%
+\defcounter {refsection}{0}\relax 
+\vspace {\beforebibskip }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {}{Bibliography}}{21}{section*.8}%
